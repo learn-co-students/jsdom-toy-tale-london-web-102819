@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 7
+      "likes": 5
     },
     {
       "id": 2,
@@ -47,36 +47,6 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
-    },
-    {
-      "name": "Yoshi",
-      "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/YoshiMarioParty10.png",
-      "id": 9
-    },
-    {
-      "name": "",
-      "image": "",
-      "id": 10
-    },
-    {
-      "name": "",
-      "image": "",
-      "id": 11
-    },
-    {
-      "name": "",
-      "image": "",
-      "id": 12
-    },
-    {
-      "name": "",
-      "image": "",
-      "id": 13
-    },
-    {
-      "name": "",
-      "image": "",
-      "id": 14
     }
   ]
 }
